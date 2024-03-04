@@ -1,0 +1,8 @@
+[06-Oct-2023 00:35:11 America/Boise] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home3/tregrill/public_html/wordpress/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/SimplePie/Core.php on line 53
+[29-Oct-2023 01:48:53 America/Boise] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home3/tregrill/public_html/wordpress/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/SimplePie/Core.php on line 53

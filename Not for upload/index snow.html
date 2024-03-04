@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="created" content="Mon, 27 Jun 2011 13:00:41 GMT">
+    <meta name="description" content="4 quality self catering cottages,situated in a tranquil hamlet just 6 miles from the coast of south east Cornwall, the cottages have been converted from barns dating back to 1824 and retain many original features. They are set in an enclosed courtyard garden, each with its own barbecue area.">
+    <meta name="keywords" content="self catering">
+    <title>Self Catering Accomodation in South East Cornwall, Tregrill Farm Cottages</title>
+	<link href='http://fonts.googleapis.com/css?family=Yellowtail' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="pro_drop_1/layout1p.css" />
+	<link rel="icon" href="http://www.tregrillfarmcottages.co.uk/favicon.ico" type="image/x-icon" /> 
+	<link rel="shortcut icon" href="http://www.tregrillfarmcottages.co.uk/favicon.ico" type="image/x-icon" />
+
+
+<!-- include jQuery library -->
+	 <script type="text/javascript" src="js/jquery.js">
+</script>
+<!-- include Cycle plugin -->
+	<script type="text/javascript" src="js/jquery.cycle.all.js">
+</script>
+	<script type="text/javascript">
+	$(document).ready(function() {
+    $('#pause').click(function() { $('#slides').cycle('pause'); return false; });
+    $('#play').click(function() { $('#slides').cycle('resume'); return false; });
+    
+    $('#slideshow1').hover(
+        function() { $('#controls').fadeIn(); },
+        function() { $('#controls').fadeOut(); }
+    );
+	$('.slideshow').cycle({
+        fx: 'fade',speed:  3500, timeout:  10000, next:   '#next',
+        prev:   '#prev'
+      // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+    });
+});
+</script>
+	
+<script src="pro_drop_1/stuHover.js" type="text/javascript">
+</script>
+	
+<script type="text/javascript">
+  			var _gaq = _gaq || [];
+  			_gaq.push(['_setAccount', 'UA-22836825-1']);
+  			_gaq.push(['_trackPageview']);
+
+  			(function() {
+    		 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   			 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   			 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ 			 })();
+</script>
+	 
+			
+			 
+</head>
+
+<body>
+<div id="container">
+<script>
+// Set the number of snowflakes (more than 30 - 40 not recommended)
+var snowmax=35
+
+// Set the colors for the snow. Add as many colors as you like
+var snowcolor=new Array("#aaaacc","#ddddFF","#ccccDD")
+
+// Set the fonts, that create the snowflakes. Add as many fonts as you like
+var snowtype=new Array("Arial Black","Arial Narrow","Times","Comic Sans MS")
+
+// Set the letter that creates your snowflake (recommended:*)
+var snowletter="*"
+
+// Set the speed of sinking (recommended values range from 0.3 to 2)
+var sinkspeed=0.6
+
+// Set the maximal-size of your snowflaxes
+var snowmaxsize=48
+
+// Set the minimal-size of your snowflaxes
+var snowminsize=8
+
+// Set the snowing-zone
+// Set 1 for all-over-snowing, set 2 for left-side-snowing 
+// Set 3 for center-snowing, set 4 for right-side-snowing
+var snowingzone=3
+
+///////////////////////////////////////////////////////////////////////////
+// CONFIGURATION ENDS HERE
+///////////////////////////////////////////////////////////////////////////
+
+
+// Do not edit below this line
+var snow=new Array()
+var marginbottom
+var marginright
+var timer
+var i_snow=0
+var x_mv=new Array();
+var crds=new Array();
+var lftrght=new Array();
+var browserinfos=navigator.userAgent 
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
+var ns6=document.getElementById&&!document.all
+var opera=browserinfos.match(/Opera/)  
+var browserok=ie5||ns6||opera
+
+function randommaker(range) {		
+	rand=Math.floor(range*Math.random())
+    return rand
+}
+
+function initsnow() {
+	if (ie5 || opera) {
+		marginbottom = document.body.clientHeight
+		marginright = document.body.clientWidth
+	}
+	else if (ns6) {
+		marginbottom = window.innerHeight
+		marginright = window.innerWidth
+	}
+	var snowsizerange=snowmaxsize-snowminsize
+	for (i=0;i<=snowmax;i++) {
+		crds[i] = 0;                      
+    	lftrght[i] = Math.random()*15;         
+    	x_mv[i] = 0.03 + Math.random()/10;
+		snow[i]=document.getElementById("s"+i)
+		snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
+		snow[i].size=randommaker(snowsizerange)+snowminsize
+		snow[i].style.fontSize=snow[i].size
+		snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
+		snow[i].sink=sinkspeed*snow[i].size/5
+		if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+		if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+		if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+		if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+		snow[i].posy=randommaker(2*marginbottom-marginbottom-2*snow[i].size)
+		snow[i].style.left=snow[i].posx
+		snow[i].style.top=snow[i].posy
+	}
+	movesnow()
+}
+
+function movesnow() {
+	for (i=0;i<=snowmax;i++) {
+		crds[i] += x_mv[i];
+		snow[i].posy+=snow[i].sink
+		snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
+		snow[i].style.top=snow[i].posy
+		
+		if (snow[i].posy>=marginbottom-2*snow[i].size || parseInt(snow[i].style.left)>(marginright-3*lftrght[i])){
+			if (snowingzone==1) {snow[i].posx=randommaker(marginright-snow[i].size)}
+			if (snowingzone==2) {snow[i].posx=randommaker(marginright/2-snow[i].size)}
+			if (snowingzone==3) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/4}
+			if (snowingzone==4) {snow[i].posx=randommaker(marginright/2-snow[i].size)+marginright/2}
+			snow[i].posy=0
+		}
+	}
+	var timer=setTimeout("movesnow()",50)
+}
+
+for (i=0;i<=snowmax;i++) {
+	document.write("<span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'>"+snowletter+"</span>")
+}
+if (browserok) {
+	window.onload=initsnow
+}
+</script>
+
+
+
+<div id="head1"><img src="images/logo_co.jpg" alt="Tregrill Farm Cottages"></div>
+
+<span class="preload1"></span>
+<span class="preload2"></span>
+
+ <div id="slideshow1">
+     <div id="controls">
+        <span><a class="controls" href="#nogo1a" id="prev">Prev</a></span>
+        <span><a class="controls" href="#nogo1b" id="next">Next</a></span>
+        <span><a class="controls" href="#nogo1c" id="pause">Pause</a></span>
+        <span><a class="controls" href="#nogo1d" id="play">Play</a></span>
+    </div>
+	 <div id="slides" class="slideshow">
+  	   	<img src="images/001.jpg" width="810" height="400" alt="" >
+        <img src="images/009.jpg" width="810" height="400" alt="" >
+		<img src="images/010.jpg" width="810" height="400" alt="" >
+       <img src="images/011.jpg" width="810" height="400" alt="" >
+        <img src="images/012.jpg" width="810" height="400" alt="" >
+        <img src="images/006.jpg" width="810" height="400" alt="" >
+		<img src="images/007.jpg" width="810" height="400" alt="" >
+       <img src="images/008.jpg" width="810" height="400" alt="" >
+		<img src="images/013.jpg" width="810" height="400" alt="" >
+       <img src="images/014.jpg" width="810" height="400" alt="" >
+        <img src="images/015.jpg" width="810" height="400" alt="" >
+       <img src="images/016.jpg" width="810" height="400" alt="" >
+       <img src="images/017.jpg" width="810" height="400" alt="" >
+        <img src="images/018.jpg" width="810" height="400" alt="" >
+		<img src="images/002.jpg" width="810" height="400" alt="" >
+		<img src="images/003.jpg" width="810" height="400" alt="" >        
+		<img src="images/004.jpg" width="810" height="400" alt="" >
+       
+    </div>
+</div>
+
+<ul id="nav" style="background:url(pro_drop_1/navback.gif)">
+
+		<li class="top"><a href="index.html" class="top_link"><span>Home</span></a></li>
+
+	<li class="top"><a href="#nogo22" id="services" class="top_link"><span class="down">Cottages</span></a>
+		<ul class="sub">
+			<li><a href="infomod.html">Moderno</a></li>
+			<li><a href="infone.html">New England</a></li>
+			<li><a href="infoprov.html">Provence</a></li>
+			<li><a href="infodec.html">Deco</a></li>
+		</ul>
+	</li>
+	<li class="top"><a href="#nogo27" id="contacts" class="top_link"><span class="down">Information</span></a>
+		<ul class="sub">
+			<li><a href="find%20us.html">Find Us</a></li>
+			<li><a href="#nogo29" class="fly">Places to Visit</a>
+				<ul>
+					<li><a href="gardens.html">Gardens</a></li>
+					<!--<li><a href="construction.html">Heritage</a></li>
+					<li><a href="construction.html">The Outdoors</a></li>-->
+					<li><a href="beaches.html">Beaches</a></li>
+				</ul>
+			</li>
+			<li><a href="history.html">History</a></li>
+			<li><a href="construction.html">Links</a></li>
+		</ul>
+	</li>
+	<li class="top"><a href="#nogo53" id="shop" class="top_link"><span class="down">Booking</span></a>
+		<ul class="sub">
+			<li><a href="infomod.html">Moderno</a></li>
+			<li><a href="infone.html">New England</a></li>
+			<li><a href="infoprov.html">Provence</a></li>
+			<li><a href="infodec.html">Deco</a></li>
+		</ul>
+	</li>
+	<li class="top"><a href="contact.html" id="privacy" class="top_link"><span>Contact Us</span></a></li>
+	
+</ul>
+
+<h1>Self catering Holiday Cottages in The Beautiful Countryside of Cornwall</h1>
+
+<div id="body1">
+<p>Tregrill Farm is situated in a small hamlet just 6 miles from the Cornish coast. From our tranquil setting you can visit the whole of Cornwall, South Devon, Bodmin Moor and Dartmoor, with countryside walks accessible directly from your door.</p>
+<p>We are a family run business with 4 generations of our family living on site. Our aim is simple, to provide "better than home" accommodation to make your holiday as enjoyable and relaxing as possible.  To help you settle in, we provide our guests with a small welcome basket of local goods and some basic provisions.</p>  
+<p>Our cottages have been converted from typical Cornish Slate barns that date back to 1824 and retain many original features. Our cottages are set in an enclosed courtyard, each with its own barbecue area and garden and all are well equipped with a dishwasher; washing machine; tumble dryer; flat screen TV and DVD player. We also provide fresh towels and linen for your convenience.</p>
+<p>The stunning South Cornwall Coast, has many attractive fishing villages such as Polperro and Looe as well as the famous South West coastal path which are just a short drive away. The fishing port of Looe can also be reached by taking the scenic train journey from Liskeard (2 miles). The maritime city of Plymouth is only a 30 minute drive away with the National Marine Aquarium and its historic Barbican district.</p>
+<p>Adrenalin Quarry and Karting World is just over a mile away. For indoor activities, feel free to make use of the games room complete with an antique full size snooker table, table tennis, darts board and hi-fi. The village of Menheniot with the tardis like Spar shop and pub is just ½ a mile away.</p></div>
+
+ 
+<script type="text/javascript" src="js/scripttip.js"></script>
+ <div id="box1"><a href="infone.html"><span class="hotspot" onmouseover="tooltip.show('Old Colonial Style<br/>3 Bedrooms<br/>Sleeps 6');" onmouseout="tooltip.hide();"><img src="images/ne.jpg" alt="" ></span></a></div>
+ 
+ <div id="box2"><a href="infomod.html"><span class="hotspot" onmouseover="tooltip.show('Modernist Style<br/>2 Bedrooms<br/>Sleeps 4');" onmouseout="tooltip.hide();"><img src="images/mod.jpg" alt=""></span></a></div>
+ <div id="box3"><a href="infoprov.html"><span class="hotspot" onmouseover="tooltip.show('French Farmhouse Style<br/>3 Bedrooms<br/>Sleeps 6');" onmouseout="tooltip.hide();"><img src="images/prov.jpg" alt=""></span></a></div>
+ <div id="box4"><a href="infodec.html"><span class="hotspot" onmouseover="tooltip.show('1920s Style<br/>2 Bedrooms<br/>Sleeps 4');" onmouseout="tooltip.hide();"><img src="images/dec.jpg" alt=""></span></a></div>
+
+
+ <div id="footer">Contact Us: 01579 345295 -  Email: <a href="mailto:info@tregrillfarmcottages.co.uk">info@tregrillfarmcottages.co.uk</a></div>
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e0b438f632da9a5"></script>
+<!-- AddThis Button END -->
+</div>
+
+  </body>
+</html>

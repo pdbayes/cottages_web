@@ -1,0 +1,8 @@
+[06-Oct-2023 00:33:50 America/Boise] PHP Fatal error:  Uncaught Error: Interface "Requests_Proxy" not found in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Proxy/HTTP.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Proxy/HTTP.php on line 19
+[29-Oct-2023 01:48:10 America/Boise] PHP Fatal error:  Uncaught Error: Interface "Requests_Proxy" not found in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Proxy/HTTP.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Proxy/HTTP.php on line 19

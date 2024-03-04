@@ -1,0 +1,4 @@
+[06-Oct-2023 00:42:43 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home3/tregrill/public_html/wordpress/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/rest-api/class-wp-rest-response.php on line 17

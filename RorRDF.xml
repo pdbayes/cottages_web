@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://rorweb.com/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <Resource rdf:about="sitemap">
+    <type>SiteMap</type>
+    <title>Tregrill Farm Cottages</title>
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/find us.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/footer.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/header2.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/header.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/index.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/navigation.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/history.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/gardens.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/construction.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/comments.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/infone.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/infomod.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/infodec.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/infoprov.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/footersmall.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/test.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/beaches.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/contact.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/slides.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/beaches.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/base.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/index.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/infoprov.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/infone.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/infomod.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/infodec.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/history.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/gardens.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/find us.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/contact.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/construction.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/comments.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/wordpress/index.php</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/~tm88A5.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/index snow.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/menhist.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/menheniot history.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/Links.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/music/map.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/Not for upload/test.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+  <Resource>
+    <url>http://www.tregrillfarcottages.co.uk/~tmC91.html</url>
+    <resourceOf rdf:resource="sitemap" />
+  </Resource>
+</rdf:RDF>

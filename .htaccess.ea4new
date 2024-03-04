@@ -1,0 +1,5 @@
+
+RewriteEngine on
+# Use PHP5.4 as default
+# Changed PHP handler from application/x-httpd-php54 to application/x-httpd-phpbeta on Mon Nov 23 15:40:07 MST 2015.
+AddHandler application/x-httpd-ea-php56 .php

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>KML Layers</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+
+function initMap() {
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 11,
+    center: {lat: 50.42426, lng: -4.77905}
+  });
+
+  var ctaLayer = new google.maps.KmlLayer({
+    url: 'http://www.tregrillfarmcottages.co.uk/test/layer.kmz',
+    map: map
+  });
+}
+
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8X_CsHyAb7133z1lKbhN54c1J3ja5EI0&signed_in=true&callback=initMap">
+    </script>
+  </body>
+</html>

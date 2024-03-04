@@ -1,0 +1,8 @@
+[06-Oct-2023 00:33:34 America/Boise] PHP Fatal error:  Uncaught Error: Interface "Requests_Hooker" not found in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Hooks.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Hooks.php on line 15
+[29-Oct-2023 01:48:00 America/Boise] PHP Fatal error:  Uncaught Error: Interface "Requests_Hooker" not found in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Hooks.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Hooks.php on line 15

@@ -1,0 +1,28 @@
+[25-May-2023 07:50:51 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php on line 9
+[25-May-2023 07:50:52 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php on line 9
+[06-Jun-2023 19:32:41 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php on line 9
+[06-Jun-2023 19:32:41 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php on line 9
+[06-Oct-2023 00:37:46 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php on line 9
+[28-Jan-2024 17:39:35 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php on line 9
+[21-Feb-2024 05:40:49 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/blocks/index.php on line 9

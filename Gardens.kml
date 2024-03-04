@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<name>Trewithen Gardens and Nursery</name>
+			<description><![CDATA[Explore under the lush canopies of woodland and discover the horticultural secrets of one of the UK's most important plant collections. This horticultural hotspot has been described as "perhaps the most beautiful woodland garden in England"]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.929207,50.292345,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Lost Gardens of Heligan</name>
+			<description><![CDATA[This mysterious estate offers over 200 acres for exploration. Victorian productive gardens and pleasure grounds, a lush sub-tropical Jungle, a pioneering Wildlife Project and walks through sustainably managed pastures and ancient woodlands.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.813513,50.286542,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eden Project</name>
+			<description><![CDATA[With a worldwide reputation Eden barely needs an introduction, but this epic destination definitely deserves a day of your undivided attention. Dubbed the '8th Wonder of the World', there's always something new to see - go again & again!]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.744649,50.361024,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Antony House</name>
+			<description><![CDATA[Antony Estate, Torpoint, Cornwall PL11 2QA, UK]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.226572,50.385291,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tregrehan Garden</name>
+			<description><![CDATA[Large woodland garden created over the last 200 years, forming an exotic green gene bank of known source plants, in a temperate rainforest. Also fine glasshouse range in more formal walled garden area. Open for groups any time by arrangement.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.740022,50.349478,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boconnoc</name>
+			<description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=50.410018,-4.618862&thumb=0" height="200" width="auto" /><br><br>Lostwithiel, Cornwall, UK]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=50.410018,-4.618862&amp;thumb=0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.618862000000001,50.410018,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bosahan Garden</name>
+			<description><![CDATA[Close to the Helford River, Bosahan serves-up horticultural bliss with a breathtaking view to the estuary and sea.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.120401,50.091485,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kimberley Park Garden</name>
+			<description><![CDATA[The seven acre site is the home to many fine ornamental trees and the amenity formal bedding has assisted with the many awards that have been won in Falmouth]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.07773,50.153677,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trebah Garden</name>
+			<description><![CDATA[Trebah is a uniquely beautiful, wooded 25 acre sub-tropical ravine garden with its own beach on the beautiful Helford River. It is the wild and magical result of 160 years of inspired and dedicated creation.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.123246,50.104143,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trevarno Gardens</name>
+			<description><![CDATA[A true hidden gem nestled in a valley just three miles form Helston, this horticultural hotspot ahs only been open to the public since 1998.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.301110000000001,50.126737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trengwainton Garden</name>
+			<description><![CDATA[Madron, Cornwall TR20 8, UK]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.576335,50.128429,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trewithen Gardens and Nursery</name>
+			<description><![CDATA[Explore under the lush canopies of woodland and discover the horticultural secrets of one of the UK's most important plant collections. This horticultural hotspot has been described as "perhaps the most beautiful woodland garden in England"]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.929214,50.292355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carwinion Gardens</name>
+			<description><![CDATA[Twelve-acres of wild Victorian gardens nestled in the Helford Valley, Carwinion is home to one of the most spectacular national collections of bamboo in the country.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.07266,50.154349,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ince Castle</name>
+			<description><![CDATA[Saltash, Cornwall PL12, UK]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.256494,50.386783,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moyclare Cornish Garden</name>
+			<description><![CDATA[Meander around this typically Cornish garden crammed with colourful plantsman's treasures. Take a small step back in time to the 1970s, when Moyclare peaked as a horticultural hotspot and became well known for being Cornwall's most televised garden]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.471693,50.444511,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lanterns</name>
+			<description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=50.194944,-5.066028&thumb=0" height="200" width="auto" /><br><br>Restronguet, Mylor, Falmouth, Cornwall TR11 5ST, UK<br> <br>In under an acre of tall flowering trees, established unusual shrubs, herbaceous perennials, bulbs and greenhouse plants, Lanterns really does squeeze everything a horticultural enthusiast could dream of finding.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=50.194944,-5.066028&amp;thumb=0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.066028,50.194944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trevarno Gardens</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.301110000000001,50.126737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bonython Estate Gardens</name>
+			<description><![CDATA[This 20 acre spring and summer garden is becoming one of the great gardens in Cornwall and its extensive redesigning continues. Sweeping main drive bordered by hydrangeas with formal planting around Manor (not open).]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.226901,50.048906,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trewidden Garden</name>
+			<description><![CDATA[Enjoy the peaceful beauty of this intimate woodland garden that is home to one of the largest camellia collections in the country.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.575583,50.11063,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Poppy Cottage Garden</name>
+			<description><![CDATA[Situated in the heart of the beautiful Roseland Peninsula, Poppy Cottage Garden covers an acre full of colour for all year-round]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.935747,50.22623,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Enys Garden</name>
+			<description><![CDATA[Come and explore the rare and historic treasures of one the oldest gardens in Cornwall. Tucked away in Penryn, stop at Enys and you will be enwrapped by the colourful mysteries of horticultural history.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.107154,50.17827,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Creed House, Grampound, Truro, Cornwall TR2 4SL</name>
+			<description><![CDATA[Creed House, Grampound, Truro, Cornwall TR2 4SL<br>Set foot in this five-acres of landscaped gardens and seek out many hidden corners amongst the colourful blooms.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.898543,50.289221,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Glendurgan Garden</name>
+			<description><![CDATA[This thriving sub-tropical valley garden runs down to the Helford River at the fishing village of Durgan. Boasting beautiful blooms in every season, this waterside garden flourishes from its sheltered ravine position. Although the view doesn't dire]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.095425,50.106045,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lanhydrock</name>
+			<description><![CDATA[Bodmin, Cornwall, UK<br>One of the most beautiful National Trust properties in Cornwall, Lanhydrock House and gardens are a must-see all year round. Superbly set in wooded parkland of 1,000 acres and encircled by a garden of rare shrubs and trees.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.701102,50.448408,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bosvigo House</name>
+			<description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&w=90&h=68&ll=50.265545,-5.068009&thumb=0" height="200" width="auto" /><br><br>Bosvigo Ln, Truro, Cornwall TR1 3NH, UKNot a typical 'Cornish' garden - at its best in Summer when the mainly herbaceous garden rooms are at their most colourful.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=50.265545,-5.068009&amp;thumb=0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.068009,50.265545,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mt Edgcumbe</name>
+			<description><![CDATA[Torpoint, Cornwall PL10 1, UK<br>Restored Tudor mansion house, past home of Earl of Mount Edgcumbe. French, Italian and English formal gardens with temples. Grade I garden. Eight hundred acres of parkland.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.184148,50.35441000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trerice</name>
+			<description><![CDATA[Experience the hidden delights of this secluded valley garden surrounding a grand Elizabethan manor house.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.016713,50.426231,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Caerhays</name>
+			<description><![CDATA[Nestled in a secluded valley above Porthluney Cove, this 100-acres of woodland gardens is one of Britain's horticultural treasures.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.855147,50.243105,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tregenna Castle</name>
+			<description><![CDATA[Treloyan, St Ives, Cornwall TR26 2DE, UK<br><br><br>72 acre estate with spectacular views overlooking St Ives Bay. Main attractions sub-tropical walled garden and woodland water garden. Head Gardener, Dave Tester and Designer, John Moreland available for garden tours by prior appointment. Cream teas.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.475318,50.202085,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Burncoose Nurseries</name>
+			<description><![CDATA[This 30-acre woodland gardens and nursery boasts award-winning displays and a smorgasbord of flowering features to captivate garden-enthusiasts and horticultural amateurs alike.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.165813,50.21032,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TrelissickGarden</name>
+			<description><![CDATA[Feock, Truro, Cornwall TR3 6QL, UK<br>Perched at the head of the Fal Estuary, Trelissick boasts jaw-dropping views and a huge array of plant species. Quite literally at the water's edge, you can catch the ferry from Truro, Falmouth or the Roseland Peninsula.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.051893,50.20676300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pentillie Castle</name>
+			<description><![CDATA[St Mellion, Saltash, Cornwall PL12 6QD, UK<br>Pentillie Castle was built in 1698 and is surrounded by a 2,000 acre estate. After lying dormant and neglected for many years, the gardens will be open - please check website.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.241458,50.45929,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Japanese Garden and Bonsai Nursery</name>
+			<description><![CDATA[Situated in the lush vale of Lanherne. Authentic Japanese garden approx. 1.5 acres, water garden with Koi and symbolic teahouse, stroll, woodland and Zen gardens, bamboo grove. Japanese Maples, Azaleas and ornamental grasses in abundance.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.998307,50.455373,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cotehele</name>
+			<description><![CDATA[Squirreled away in a steep, sheltered valley on the west bank of the River Tamar, this sprawling National Trust garden surrounds a striking medieval house. This 15th Century house with its historical garden and woodland has inspired artists.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.226201,50.494982,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hidden Valley Gardens</name>
+			<description><![CDATA[Escape to this hidden garden where small is beautiful, but size doesn't limit the number and diversity of species sprouting within this little paradise.]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.68142,50.378984,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Point 36</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.7790527,50.4242687,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

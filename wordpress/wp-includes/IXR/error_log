@@ -1,0 +1,32 @@
+[06-Oct-2023 00:32:21 America/Boise] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[06-Oct-2023 00:32:31 America/Boise] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[29-Oct-2023 01:47:14 America/Boise] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[29-Oct-2023 01:47:21 America/Boise] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[03-Mar-2024 13:08:45 America/Boise] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[03-Mar-2024 13:08:46 America/Boise] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[03-Mar-2024 17:26:50 America/Boise] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[03-Mar-2024 17:26:51 America/Boise] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

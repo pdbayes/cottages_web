@@ -1,0 +1,12 @@
+[06-Oct-2023 00:44:47 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home3/tregrill/public_html/wordpress/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[06-Oct-2023 00:44:50 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home3/tregrill/public_html/wordpress/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[06-Oct-2023 00:44:55 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home3/tregrill/public_html/wordpress/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

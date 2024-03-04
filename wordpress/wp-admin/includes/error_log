@@ -1,0 +1,664 @@
+[31-Oct-2023 01:22:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin-filters.php on line 11
+[31-Oct-2023 01:22:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin.php on line 16
+[31-Oct-2023 01:22:36 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php on line 21
+[31-Oct-2023 01:22:37 America/Boise] PHP Fatal error:  Uncaught Error: Class "Bulk_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-plugin-upgrader-skin.php on line 18
+[31-Oct-2023 01:22:37 America/Boise] PHP Fatal error:  Uncaught Error: Class "Bulk_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-theme-upgrader-skin.php on line 18
+[31-Oct-2023 01:22:37 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-upgrader-skin.php on line 18
+[31-Oct-2023 01:22:37 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-core-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-core-upgrader.php on line 21
+[31-Oct-2023 01:22:37 America/Boise] PHP Fatal error:  Uncaught Error: Class "ftp_base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-pure.php on line 28
+[31-Oct-2023 01:22:37 America/Boise] PHP Fatal error:  Uncaught Error: Class "ftp_base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-sockets.php on line 28
+[31-Oct-2023 01:22:38 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-language-pack-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-language-pack-upgrader-skin.php on line 18
+[31-Oct-2023 01:22:38 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-language-pack-upgrader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-language-pack-upgrader.php on line 19
+[31-Oct-2023 01:22:38 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-installer-skin.php on line 18
+[31-Oct-2023 01:22:38 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader-skin.php on line 18
+[31-Oct-2023 01:22:38 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader.php on line 21
+[31-Oct-2023 01:22:38 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-installer-skin.php on line 18
+[31-Oct-2023 01:22:38 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[31-Oct-2023 01:22:38 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader.php on line 21
+[31-Oct-2023 01:22:39 America/Boise] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-category-checklist.php on line 19
+[31-Oct-2023 01:22:39 America/Boise] PHP Fatal error:  Uncaught Error: Class "Walker_Nav_Menu" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-checklist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-checklist.php on line 16
+[31-Oct-2023 01:22:39 America/Boise] PHP Fatal error:  Uncaught Error: Class "Walker_Nav_Menu" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-edit.php on line 17
+[31-Oct-2023 01:22:39 America/Boise] PHP Fatal error:  Uncaught Error: Class "Automatic_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ajax-upgrader-skin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ajax-upgrader-skin.php on line 19
+[31-Oct-2023 01:22:39 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-application-passwords-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-application-passwords-list-table.php on line 18
+[31-Oct-2023 01:22:39 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-comments-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-comments-list-table.php on line 18
+[31-Oct-2023 01:22:40 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[31-Oct-2023 01:22:40 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[31-Oct-2023 01:22:40 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[31-Oct-2023 01:22:40 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[31-Oct-2023 01:22:40 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-links-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-links-list-table.php on line 18
+[31-Oct-2023 01:22:40 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-list-table-compat.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-list-table-compat.php on line 15
+[31-Oct-2023 01:22:41 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-media-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-media-list-table.php on line 18
+[31-Oct-2023 01:22:41 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-sites-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-sites-list-table.php on line 18
+[31-Oct-2023 01:22:41 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-themes-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-themes-list-table.php on line 18
+[31-Oct-2023 01:22:41 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-users-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-users-list-table.php on line 18
+[31-Oct-2023 01:22:41 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugin-install-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugin-install-list-table.php on line 18
+[31-Oct-2023 01:22:41 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugins-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugins-list-table.php on line 18
+[31-Oct-2023 01:22:41 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Comments_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-post-comments-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-post-comments-list-table.php on line 18
+[31-Oct-2023 01:22:41 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-posts-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-posts-list-table.php on line 18
+[31-Oct-2023 01:22:41 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[31-Oct-2023 01:22:42 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[31-Oct-2023 01:22:42 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-requests-table.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-requests-table.php on line 10
+[31-Oct-2023 01:22:42 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-terms-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-terms-list-table.php on line 18
+[31-Oct-2023 01:22:42 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Themes_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-theme-install-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-theme-install-list-table.php on line 18
+[31-Oct-2023 01:22:42 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-themes-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-themes-list-table.php on line 18
+[31-Oct-2023 01:22:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skins.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skins.php on line 11
+[31-Oct-2023 01:22:43 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader.php on line 13
+[31-Oct-2023 01:22:43 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-users-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-users-list-table.php on line 18
+[31-Oct-2023 01:22:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/tregrill/public_html/wordpress/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/continents-cities.php on line 12
+[31-Oct-2023 01:22:43 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Privacy_Data_Export_Requests_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/deprecated.php:1530
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/deprecated.php on line 1530
+[31-Oct-2023 01:22:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/tregrill/public_html/wordpress/wp-admin/includes/edit-tag-messages.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/edit-tag-messages.php on line 14
+[31-Oct-2023 01:22:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/tregrill/public_html/wordpress/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/file.php on line 16
+[31-Oct-2023 01:22:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home3/tregrill/public_html/wordpress/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/menu.php on line 9
+[31-Oct-2023 01:22:44 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home3/tregrill/public_html/wordpress/wp-admin/includes/ms-admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/ms-admin-filters.php on line 11
+[31-Oct-2023 01:22:45 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/nav-menu.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/nav-menu.php on line 11
+[31-Oct-2023 01:22:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home3/tregrill/public_html/wordpress/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/schema.php on line 23
+[31-Oct-2023 01:22:45 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/template.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/template.php on line 12
+[31-Oct-2023 01:22:46 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "WP_CONTENT_DIR" in /home3/tregrill/public_html/wordpress/wp-admin/includes/upgrade.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/upgrade.php on line 12
+[03-Mar-2024 13:10:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin-filters.php on line 11
+[03-Mar-2024 13:10:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin.php on line 16
+[03-Mar-2024 13:10:26 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php on line 21
+[03-Mar-2024 13:10:26 America/Boise] PHP Fatal error:  Uncaught Error: Class "Bulk_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-plugin-upgrader-skin.php on line 18
+[03-Mar-2024 13:10:27 America/Boise] PHP Fatal error:  Uncaught Error: Class "Bulk_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-theme-upgrader-skin.php on line 18
+[03-Mar-2024 13:10:27 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-upgrader-skin.php on line 18
+[03-Mar-2024 13:10:28 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-core-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-core-upgrader.php on line 21
+[03-Mar-2024 13:10:29 America/Boise] PHP Fatal error:  Uncaught Error: Class "ftp_base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-pure.php on line 28
+[03-Mar-2024 13:10:29 America/Boise] PHP Fatal error:  Uncaught Error: Class "ftp_base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-sockets.php on line 28
+[03-Mar-2024 13:10:30 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-language-pack-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-language-pack-upgrader-skin.php on line 18
+[03-Mar-2024 13:10:31 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-installer-skin.php on line 18
+[03-Mar-2024 13:10:31 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader-skin.php on line 18
+[03-Mar-2024 13:10:32 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader.php on line 21
+[03-Mar-2024 13:10:32 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-installer-skin.php on line 18
+[03-Mar-2024 13:10:32 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[03-Mar-2024 13:10:33 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader.php on line 21
+[03-Mar-2024 13:10:33 America/Boise] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-category-checklist.php on line 19
+[03-Mar-2024 13:10:34 America/Boise] PHP Fatal error:  Uncaught Error: Class "Walker_Nav_Menu" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-checklist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-checklist.php on line 16
+[03-Mar-2024 13:10:34 America/Boise] PHP Fatal error:  Uncaught Error: Class "Walker_Nav_Menu" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-edit.php on line 17
+[03-Mar-2024 13:10:34 America/Boise] PHP Fatal error:  Uncaught Error: Class "Automatic_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ajax-upgrader-skin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ajax-upgrader-skin.php on line 19
+[03-Mar-2024 13:10:35 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-application-passwords-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-application-passwords-list-table.php on line 18
+[03-Mar-2024 13:10:36 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-comments-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-comments-list-table.php on line 18
+[03-Mar-2024 13:10:37 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[03-Mar-2024 13:10:37 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[03-Mar-2024 13:10:38 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[03-Mar-2024 13:10:38 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[03-Mar-2024 13:10:39 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-links-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-links-list-table.php on line 18
+[03-Mar-2024 13:10:39 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-list-table-compat.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-list-table-compat.php on line 15
+[03-Mar-2024 13:10:40 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-media-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-media-list-table.php on line 18
+[03-Mar-2024 13:10:40 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-sites-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-sites-list-table.php on line 18
+[03-Mar-2024 13:10:41 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-themes-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-themes-list-table.php on line 18
+[03-Mar-2024 13:10:41 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-users-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-users-list-table.php on line 18
+[03-Mar-2024 13:10:42 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugin-install-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugin-install-list-table.php on line 18
+[03-Mar-2024 13:10:42 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugins-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugins-list-table.php on line 18
+[03-Mar-2024 13:10:42 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Comments_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-post-comments-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-post-comments-list-table.php on line 18
+[03-Mar-2024 13:10:43 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-posts-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-posts-list-table.php on line 18
+[03-Mar-2024 13:10:43 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[03-Mar-2024 13:10:44 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[03-Mar-2024 13:10:44 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-requests-table.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-requests-table.php on line 10
+[03-Mar-2024 13:10:46 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-terms-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-terms-list-table.php on line 18
+[03-Mar-2024 13:10:46 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Themes_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-theme-install-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-theme-install-list-table.php on line 18
+[03-Mar-2024 13:10:47 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-themes-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-themes-list-table.php on line 18
+[03-Mar-2024 13:10:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skins.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skins.php on line 11
+[03-Mar-2024 13:10:48 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader.php on line 13
+[03-Mar-2024 13:10:48 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-users-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-users-list-table.php on line 18
+[03-Mar-2024 13:10:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/tregrill/public_html/wordpress/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/continents-cities.php on line 12
+[03-Mar-2024 13:10:50 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Privacy_Data_Export_Requests_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/deprecated.php:1530
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/deprecated.php on line 1530
+[03-Mar-2024 13:10:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/tregrill/public_html/wordpress/wp-admin/includes/edit-tag-messages.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/edit-tag-messages.php on line 14
+[03-Mar-2024 13:10:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/tregrill/public_html/wordpress/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/file.php on line 16
+[03-Mar-2024 13:10:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home3/tregrill/public_html/wordpress/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/menu.php on line 9
+[03-Mar-2024 13:10:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home3/tregrill/public_html/wordpress/wp-admin/includes/ms-admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/ms-admin-filters.php on line 11
+[03-Mar-2024 13:10:54 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/nav-menu.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/nav-menu.php on line 11
+[03-Mar-2024 13:10:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home3/tregrill/public_html/wordpress/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/schema.php on line 23
+[03-Mar-2024 13:10:57 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/template.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/template.php on line 12
+[03-Mar-2024 13:10:59 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "WP_CONTENT_DIR" in /home3/tregrill/public_html/wordpress/wp-admin/includes/upgrade.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/upgrade.php on line 12
+[03-Mar-2024 17:28:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin-filters.php on line 11
+[03-Mar-2024 17:28:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/admin.php on line 16
+[03-Mar-2024 17:28:19 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-automatic-upgrader-skin.php on line 21
+[03-Mar-2024 17:28:19 America/Boise] PHP Fatal error:  Uncaught Error: Class "Bulk_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-plugin-upgrader-skin.php on line 18
+[03-Mar-2024 17:28:19 America/Boise] PHP Fatal error:  Uncaught Error: Class "Bulk_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-theme-upgrader-skin.php on line 18
+[03-Mar-2024 17:28:20 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-bulk-upgrader-skin.php on line 18
+[03-Mar-2024 17:28:20 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-core-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-core-upgrader.php on line 21
+[03-Mar-2024 17:28:21 America/Boise] PHP Fatal error:  Uncaught Error: Class "ftp_base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-pure.php on line 28
+[03-Mar-2024 17:28:21 America/Boise] PHP Fatal error:  Uncaught Error: Class "ftp_base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-ftp-sockets.php on line 28
+[03-Mar-2024 17:28:22 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-language-pack-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-language-pack-upgrader-skin.php on line 18
+[03-Mar-2024 17:28:22 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-language-pack-upgrader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-language-pack-upgrader.php on line 19
+[03-Mar-2024 17:28:23 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-installer-skin.php on line 18
+[03-Mar-2024 17:28:23 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader-skin.php on line 18
+[03-Mar-2024 17:28:24 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-plugin-upgrader.php on line 21
+[03-Mar-2024 17:28:24 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-installer-skin.php on line 18
+[03-Mar-2024 17:28:24 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[03-Mar-2024 17:28:25 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Upgrader" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-theme-upgrader.php on line 21
+[03-Mar-2024 17:28:25 America/Boise] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-category-checklist.php on line 19
+[03-Mar-2024 17:28:26 America/Boise] PHP Fatal error:  Uncaught Error: Class "Walker_Nav_Menu" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-checklist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-checklist.php on line 16
+[03-Mar-2024 17:28:26 America/Boise] PHP Fatal error:  Uncaught Error: Class "Walker_Nav_Menu" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-walker-nav-menu-edit.php on line 17
+[03-Mar-2024 17:28:26 America/Boise] PHP Fatal error:  Uncaught Error: Class "Automatic_Upgrader_Skin" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ajax-upgrader-skin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ajax-upgrader-skin.php on line 19
+[03-Mar-2024 17:28:27 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-application-passwords-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-application-passwords-list-table.php on line 18
+[03-Mar-2024 17:28:27 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-comments-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-comments-list-table.php on line 18
+[03-Mar-2024 17:28:28 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[03-Mar-2024 17:28:29 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[03-Mar-2024 17:28:29 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[03-Mar-2024 17:28:29 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Filesystem_Base" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[03-Mar-2024 17:28:30 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-links-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-links-list-table.php on line 18
+[03-Mar-2024 17:28:31 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-list-table-compat.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-list-table-compat.php on line 15
+[03-Mar-2024 17:28:32 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-sites-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-sites-list-table.php on line 18
+[03-Mar-2024 17:28:32 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-themes-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-themes-list-table.php on line 18
+[03-Mar-2024 17:28:32 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-users-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-ms-users-list-table.php on line 18
+[03-Mar-2024 17:28:33 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugin-install-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugin-install-list-table.php on line 18
+[03-Mar-2024 17:28:33 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugins-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-plugins-list-table.php on line 18
+[03-Mar-2024 17:28:33 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Comments_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-post-comments-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-post-comments-list-table.php on line 18
+[03-Mar-2024 17:28:34 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-posts-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-posts-list-table.php on line 18
+[03-Mar-2024 17:28:34 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[03-Mar-2024 17:28:34 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[03-Mar-2024 17:28:35 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-requests-table.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-privacy-requests-table.php on line 10
+[03-Mar-2024 17:28:36 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-terms-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-terms-list-table.php on line 18
+[03-Mar-2024 17:28:37 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Themes_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-theme-install-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-theme-install-list-table.php on line 18
+[03-Mar-2024 17:28:37 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-themes-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-themes-list-table.php on line 18
+[03-Mar-2024 17:28:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skins.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader-skins.php on line 11
+[03-Mar-2024 17:28:38 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-upgrader.php on line 13
+[03-Mar-2024 17:28:38 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-users-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/class-wp-users-list-table.php on line 18
+[03-Mar-2024 17:28:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/tregrill/public_html/wordpress/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/continents-cities.php on line 12
+[03-Mar-2024 17:28:40 America/Boise] PHP Fatal error:  Uncaught Error: Class "WP_Privacy_Data_Export_Requests_List_Table" not found in /home3/tregrill/public_html/wordpress/wp-admin/includes/deprecated.php:1530
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/deprecated.php on line 1530
+[03-Mar-2024 17:28:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/tregrill/public_html/wordpress/wp-admin/includes/edit-tag-messages.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/edit-tag-messages.php on line 14
+[03-Mar-2024 17:28:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/tregrill/public_html/wordpress/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/file.php on line 16
+[03-Mar-2024 17:28:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home3/tregrill/public_html/wordpress/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/menu.php on line 9
+[03-Mar-2024 17:28:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home3/tregrill/public_html/wordpress/wp-admin/includes/ms-admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/ms-admin-filters.php on line 11
+[03-Mar-2024 17:28:43 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/nav-menu.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/nav-menu.php on line 11
+[03-Mar-2024 17:28:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home3/tregrill/public_html/wordpress/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/schema.php on line 23
+[03-Mar-2024 17:28:46 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home3/tregrill/public_html/wordpress/wp-admin/includes/template.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/template.php on line 12
+[03-Mar-2024 17:28:48 America/Boise] PHP Fatal error:  Uncaught Error: Undefined constant "WP_CONTENT_DIR" in /home3/tregrill/public_html/wordpress/wp-admin/includes/upgrade.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-admin/includes/upgrade.php on line 12

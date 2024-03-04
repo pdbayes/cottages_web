@@ -1,0 +1,8 @@
+[29-Apr-2022 11:44:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/tregrill/public_html/wordpress/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-content/themes/twentytwenty/index.php on line 17
+[15-Sep-2022 02:19:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/tregrill/public_html/wordpress/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-content/themes/twentytwenty/404.php on line 10

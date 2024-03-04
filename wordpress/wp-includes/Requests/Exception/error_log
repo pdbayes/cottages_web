@@ -1,0 +1,16 @@
+[06-Oct-2023 00:33:27 America/Boise] PHP Fatal error:  Uncaught Error: Class "Requests_Exception" not found in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Exception/HTTP.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Exception/HTTP.php on line 13
+[06-Oct-2023 00:33:29 America/Boise] PHP Fatal error:  Uncaught Error: Class "Requests_Exception" not found in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Exception/Transport.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Exception/Transport.php on line 3
+[29-Oct-2023 01:47:56 America/Boise] PHP Fatal error:  Uncaught Error: Class "Requests_Exception" not found in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Exception/HTTP.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Exception/HTTP.php on line 13
+[29-Oct-2023 01:47:56 America/Boise] PHP Fatal error:  Uncaught Error: Class "Requests_Exception" not found in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Exception/Transport.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/tregrill/public_html/wordpress/wp-includes/Requests/Exception/Transport.php on line 3
