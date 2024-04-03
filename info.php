@@ -135,9 +135,72 @@ Extreme temperatures in Cornwall are particularly rare.
 </div>
 </div>
 <hr class="featurette-divider">
-	    <?php
-	  include("info_new.php");
-	  ?>
+<h1 id="holiday">Holidaying at Tregrill</h1>
+Cornwall has an <a href=https://www.appforcornwall.com/download">app</a> of places to visit which can be useful to carry with you on days out</br>
+</p>
+<p>
+<h2>Local Information</h2>
+<h3>Emergency Services</h3>
+<p>
+If you realise you have come away without your usual medication, this can usually be easily sorted by ringing your home GP and asking them to fax a prescription to one of the pharmacies in Liskeard (details below).
+Cornwall runs a ‘111 first’ scheme. Please ring 111 and they will book you into the right place. This could be a local GP, Liskeard or Plymouth minor injuries or direct you to A&E.;
+</p>
+<strong>Hospital</strong> – Liskeard Community Hospital has a minor injuries unit and can be found on Clemo Road, Liskeard.
+The nearest main hospital with A&E; is Derriford in Plymouth, signed from the A38.</br></br>
+<strong>Doctors</strong> – Rosedean Surgery, Dean Street, Liskeard – 01579 343915 OR Oaktree Surgery, Clemo Road, Liskeard– 01579 335320. Both numbers will take you through directly to an out-of-hours service after 6pm or at weekends.</br></br>
+<strong>Police</strong> – Liskeard – 01579 342351</br></br>
+<strong>Pharmacy</strong> – there is a Boots in Bay Tree Hill, Liskeard  (tel. 01579 343183 fax. 01579 343473) and there is also an independent pharmacy called Day Lewis in Pike Street, Liskeard (tel. 01579 342225 fax. 01579 344185).</br> Both doctors’ surgeries have a dispensary which should dispense for any prescriptions given to you by one of their doctors as you are staying over 1 mile from the nearest pharmacy.</br>
+Saltash Pharmacy is open 7am to 11pm if you need something outside normal opening hours, invaluable if you receive a prescription from the out of hours GP surgery: 6 Regal Court, Unit 6, Off Fore Street, Saltash (tel. 01752 848958).</br></br>
+
+<h3>Grocery shopping</h3>
+The nearest shop is the Aladdin’s Cave that is the Spar in Menheniot, about half a mile away. It’s a short drive or a 10–15 minute, hilly walk for a moderately fit person. You can walk down the lane to the village or take a short cut by turning left at the corner of the barns and following the footpath signs which will take you out opposite the white house named Polpinka. The Spar sells general groceries (including nappies and baby wipes) as well as some local produce both fresh and frozen. It also contains a Post Office and a hot food takeaway (tel. 01579 342266). The Spar is open 7.30am to 10pm Monday to Saturday and 9am to 9pm on Sundays.</br></br>
+In Liskeard (2.5 miles) there is a Morrisons Supermarket and petrol station just off the A38.</br> There is an Aldi Supermarket just further on near the hospital.</br>  In the centre of the town there are two bakeries, a butcher, greengrocer, health food shop, newsagent, post office, several cafes, pubs and takeaways. Pengelly’s, the fishmonger mentioned on Rick Stein’s Food Heroes, who sell fish caught by Looe fishermen, can be found in Fore Street open Thursday and Friday 9.15 to 4.</br>
+There is an Asda in Bodmin, Tesco in Callington and Waitrose and Lidl in Saltash. The nearest Sainsbury’s is in Plymouth. Asda, Tesco, Sainsbury’s and Waitrose will deliver internet shopping orders to Tregrill.</br>
+We also recommend the farmer’s market held at Kernow Mills (at Trerulefoot on the A38) held on a Thursday, Friday and Saturday, Trevallicks Farm Shop and Tea Room on the B3254 heading towards Launceston from Liskeard, just past Pensilva the butcher Paul Bray in Tideford. The fish and farm shops in Looe are also great.</br>
+
+<h3>Play area</h3>
+Menheniot also has a children’s play area – to find this take the road that runs in front of the Spar, this road curves round the back of some converted almshouses, you will pass a small hairdresser’s on the left, take the next left turn and follow this road. Shortly on the left you will see some public toilets and on the right the village hall. The play area and playing fields are directly after the village hall. There is parking in front of the play area or a small free car park can be used by taking the next left turn, turning left again and proceeding until the end of the road. If you cross the playing field and go around the cricket pavilion and cross the cricket field you will find there is also a willow maze for children to play in.
+</p>
+<p>
+<h3>Eating and Drinking</h3>
+We don’t want to list a whole host of places for you, as its fun for guests to discover for themselves. So please leave your recommendations of anywhere outstanding in the visitor book for future guests. However, here is a small selection:
+<h4>Nearest</h4>
+The Hayloft – the local restaurant on the Menheniot junction of theA38
+
+<h4>Cafés</h4>
+Olive &amp; Co, Sibleyback Lake.</br>
+The Canteen, Maker Heights, Millbrook (PL10 1LA), in a Nissen Hut on the cliff top, great place for lunch. If you want to go here please ask us for directions as it’s not easy to find.</br>
+Cafe Fleur – in Looe (has an extensive gluten free menu and is very child friendly)
+
+<h4>Fish</h4>
+The Old Sail Loft in Looe tel. 01503 262 131</br>
+Rockfish (high quality fish and chips) Sutton Harbour, Plymouth tel. 01752 255974</br>
+The Catch, Looe, great fish and chips</br>
+The Old Sardine Factory, Looe tel. 01503 770262</br>
+
+<h4>Takeaway</h4>
+Takeaways in Liskeard deliver to Tregrill.
+
+<h4>Pubs</h4>
+The Crows Nest Inn, Darite (just onto Bodmin Moor) tel. 01579 345930</br>
+The Plough at Duloe tel. 01503 262556</br>
+The Crown, Lanlivery tel 01208 872707</br>
+The Finnygook, Crafthole tel. 01503 230338</br>
+The Rod and Line, Tideford tel. 01752 851323</br>
+The Springer Spaniel, Treburley, Launceston (tel. 01579 370242)</br>
+The Blisland Inn, Blisland, Bodmin Moor (tel. 01208 850739)</br>
+The Rising Sun Inn, Gunnislake tel. 01822 832201</br>
+The Who’d Have Thought It Inn, St Dominick tel. 01579 350214</br>
+The Ship Inn, Fowey tel. 01726 832230</br>
+The White Hart, Menheniot tel. 01579 342245 – this friendly, old fashioned pub that serves good, simple food. It is a real local’s, rather than a tourist, pub where you would be welcomed and get a taste of life in a Cornish village.</br>
+
+<h4>Fine dining</h4>
+Finally, more famous restaurants are accessible from Tregrill:</br>
+Rick Stein’s The Seafood Restaurant at Padstow (45 minutes) tel. 01841 53270.</br>
+The View at Whitsand Bay (20 minutes) tel. 01752 822345</br>
+The Barbican Kitchen by the Tanner Brothers, Plymouth Gin Distillery, Plymouth</br>
+Marco Pierre White’s Steakhouse Bar and Grill, The Holiday Inn, The Hoe, Plymouth
+</p>
 <div class="row">
 <div class="col-sm-12">
 <a name="whats_on"></a>
